@@ -1,0 +1,4 @@
+name: drpal-second-project
+recipe: drupal10
+config:
+  webroot: web
