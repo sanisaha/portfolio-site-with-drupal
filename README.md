@@ -25,8 +25,8 @@ You can run lando info to get the url for the site. You can run in the browser t
 
 ## Screenshot
 
-<img src="web/assets/screenshots/projects.png">
 <img src="web/assets/screenshots/frontpage.png">
+<img src="web/assets/screenshots/projects.png">
 <img src="web/assets/screenshots/about.png">
 <img src="web/assets/screenshots/contact.png">
 
