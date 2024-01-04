@@ -7,7 +7,6 @@ This is a portfolio site built with Drupal 10 and a contrib theme.
 Built with:
 
 - Drupal 10
-- Zuvi contrib theme
 - Lando
 - Docker
 - MySQL
